@@ -1,4 +1,4 @@
-# 🐰 Welcome to [본인 이름/닉네임]'s Cozy Space! ✨
+# 🐰 Welcome to [예은]'s Space! ✨
 
 <div align="center">
   <!-- 1. 귀여운 헤더 이미지 (랜덤 애니메이션) -->
@@ -10,7 +10,7 @@
   <!-- tip: GIPHY 등에서 귀여운 GIF 주소를 가져와 대체할 수 있습니다 -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI5YmZ4Y2Z5YW9xbTVqNWh4bDJuam5vM2d4M2FseWJkeXZ0cjZwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJ9IbhDc59E2tcYHE/giphy.gif" width="150" alt="cute cat" />
 
-  <h3>"매일매일 성장하는 꼬마 개발자, [본인 이름]입니다! 🐥"</h3>
+  <h3>  [예은]입니다! 🐥"</h3>
 
   <br/>
 </div>
