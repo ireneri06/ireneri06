@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- 1. 귀여운 헤더 이미지 (랜덤 애니메이션) -->
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20[닉네임]%20World!&fontSize=50&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3p5NTJ0b3BqZDlsNWVpbnQzZTYxYmM5cTN0YWZmbWJuanRxcngyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QsomqbDcRm9xMFxJMu/giphy.gif" alt="header" />
 
   <br/>
 
