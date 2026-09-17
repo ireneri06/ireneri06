@@ -1,4 +1,4 @@
-# 🐰 Welcome to [예은]'s Space! ✨
+# 🐰 Welcome to 예은's Space! ✨
 
 <div align="center">
   <!-- 1. 귀여운 헤더 이미지 (랜덤 애니메이션) -->
